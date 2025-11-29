@@ -10,9 +10,14 @@
     "MainKey": "0x79D3E800D085C8D5BEAB0425A265C236B1C5626FC5A0ACBC6DD942DDD8643CE1"
   },
   "20905096": {
-    "LATEST": true,
     "Url": "https://diyagi.github.io/Misery-FModel/8257750639872636858/Mappings.usmap",
     "FileName": "Misery-20905096.usmap",
+    "MainKey": "0x79D3E800D085C8D5BEAB0425A265C236B1C5626FC5A0ACBC6DD942DDD8643CE1"
+  },
+  "20991431": {
+    "LATEST": true,
+    "Url": "https://diyagi.github.io/Misery-FModel/1466255011297702818/Mappings.usmap",
+    "FileName": "Misery-20991431.usmap",
     "MainKey": "0x79D3E800D085C8D5BEAB0425A265C236B1C5626FC5A0ACBC6DD942DDD8643CE1"
   }
 }
